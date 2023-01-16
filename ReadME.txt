@@ -2,7 +2,10 @@ This package includes OpenSCAD codes for generation of digital fracture networks
 
 In this package four examples are provided (Sample 1, Sample 2, Sample 3 and Sample 4). Each example has a different initial fracture netwrok design
 
--Sample 1: a fracture network of fractures with random orientation and fracture desnity C = 11050 is generated. -Sample 2: a fracture network of fractures with random orientation and fracture density C = 17700 is generated. -Sample 3: a fracture network of fractures with random orientation and fracture density C = 25000 is generated. -Sample 4: a fracture network of fractures with an orientation of 60 degrees and fracture density C = 20000 is generated.
+-Sample 1: a fracture network of fractures with random orientation and fracture desnity C = 11050 is generated. 
+-Sample 2: a fracture network of fractures with random orientation and fracture density C = 17700 is generated.
+-Sample 3: a fracture network of fractures with random orientation and fracture density C = 25000 is generated.
+-Sample 4: a fracture network of fractures with an orientation of 60 degrees and fracture density C = 20000 is generated.
 
 The user can specify the values of maximum and minimum radii, fracture aperture, fracture length, fracture oriantation, dip azimuth and fracture density.
 
